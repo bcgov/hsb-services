@@ -14,8 +14,15 @@ All Hosting Delivery services include infrastructure management, support and sec
 
 ## Support
 
-* Support for Services
-* Support for Ordering
+### Support for Services
+
+The [Service Desk](https://ociomysc.service-now.com/sp?id=ocio_sr_kb_article_view&sysparm_article=KB0010179) is available 24x7, including holidays, to provide first-level support, including call tracking and quick problem resolution.  All other calls are assigned a priority level and queued for appropriate technical support during regular business hours.
+
+You can also find support information for each service under the 'Hours of Support' page for each service on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/overviews/hosting.htm).
+
+### Support for Ordering
+
+You can find prerequisites and ordering forms on the 'How to Order' page for each service on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/overviews/hosting.htm).
 
 ## Consulting Services
 
@@ -23,6 +30,8 @@ We have a team of qualified information technology (IT) professionals who are av
 
 * Mainframe Consulting Services to address specific mainframe requirements
 * Application Hosting Consulting Services for pre-ordering information, Hosting Professional Services, middleware support services and STMS Data Centre Infrastructure Services including IP Subnet (VLAN), Firewall Security and Load Balancing.
+
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/Consulting/overview.htm).
 
 ## Computing
 
@@ -59,9 +68,13 @@ You are advised to review the configuration list, and to document your business 
 
 The OCIO’s storage infrastructure offers redundancy, configuration flexibility, support services and management software capabilities for supporting different data types, applications and processing platforms.
 
-### Data Bakcup Services
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/AppHosting/base.htm#appstorage).
+
+### Data Backup Services
 
 Data Backup Services protect your data by ensuring it is backed up (copied), stored and available for restoration if the originals cannot be accessed due to a failure. These services are distinct from the backup and restore features built into some other services such as Messaging.
+
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/AppHosting/base.htm#databackup).
 
 ## Network and Security
 
@@ -83,6 +96,8 @@ Application Hosting Services for Linux, UNIX, and Windows platforms, provide hig
 
 We will work closely with you on a predefined set of services to create a stable operating environment including secure data centre floor space, power, cooling and environmental controls, network connection, infrastructure operations and management, installation, and systems management for operating systems, and underlying hardware.
 
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/AppHosting/overview.htm).
+
 ### Remote Access Services
 
 * 3PG Service
@@ -101,6 +116,8 @@ Manages government’s office printing and imaging environment; providing networ
 
 Note: This service is mandatory for ministry clients but is currently unavailable for BPS clients.
 
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/ManagedPrint/overview.htm).
+
 ## End User Services
 
 ### VDI Service
@@ -109,12 +126,14 @@ Note: This service is mandatory for ministry clients but is currently unavailabl
 
 ### Platform Services
 
-* Shared Web Hosting
-* Database as a Service
+* [Shared Web Hosting](https://ssbc-client.gov.bc.ca/services/SharedHosting/overview.htm)
+* [Database as a Service](https://ssbc-client.gov.bc.ca/services/mainframe/base.htm)
 
 ### Secure File Transfer Service
 
 The Secure File Transfer Service is a secure web-based service that provides an easy-to-use, secure means to exchange files between ministries, with trusted external partners and organizations, and with the general BC public within SPAN/BC and the Internet. It is located in the Province’s Interior Data Centre and is placed on the logical boundary between the Province’s SPAN/BC network and the public Internet.
+
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/SecureFileTransfer/overview.htm).
 
 ### Shared File and Print Services
 
@@ -128,14 +147,15 @@ All Ministry clients use Managed Print Service (MPS) for printing however BPS cl
 
 Service options are available at additional cost for incremental storage beyond the base allocation, for dedicated servers and enhanced auditing.
 
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/SharedFilePrint/options.htm).
+
 ## Service Information
 
-### Product Roadmaps
+### [Product Roadmaps](https://ssbc-client.gov.bc.ca/services/apphosting/documents.htm#RoadMap)
 
-### Shared Links
+### [Shared Links](https://ssbc-client.gov.bc.ca/services/apphosting/documents.htm)
 
 ### Billing Information
 
-### Hosting Client Reports
+You can find billing information on the 'Rates' page for each service on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/overviews/hosting.htm).
 
-### Hosting Client Forums
