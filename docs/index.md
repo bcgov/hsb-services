@@ -114,7 +114,7 @@ See more information on the [Client Resource Center](https://ssbc-client.gov.bc.
 
 ## Self Service and Private Cloud (IaaS)
 
-* SDN Services
+* [SDN Services](https://digital.gov.bc.ca/cloud/services/private/products-tools/sdn/)
 
 ## Managed Print Services
 
