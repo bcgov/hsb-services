@@ -40,12 +40,16 @@ Includes licensing of the operating system (for UNIX, Linux or Windows) and the 
 ### Virtual servers:
 As clients’ application needs change over time, the OCIO will monitor and analyze the virtual image performance on a quarterly basis and adjust the resources as needed (RAM and CPU via the VM Right Sizing and Change Management process) which ensures the client’s virtual image is operating at its optimal performance.
 
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/apphosting/base.htm#apphosting).
+
 ### Physical servers:
 Available in various sizes (small, medium or large) and in various locations. The choice of server location includes identifying a Tier level which will determine the service level applicable to the server:
 
 * Tier 1 indicates a cluster with two or more servers in a data centre location with 7 x 24 support
 * Tier 2 indicates a single server in a STMS data centre location
 * Tier 3 indicates a server in a non-data centre (remote) location
+
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/apphosting/base.htm#apphosting).
 
 ### Physical and Virtual Server environments available include:
 
@@ -57,10 +61,12 @@ Available in various sizes (small, medium or large) and in various locations. Th
 
 * Development/Test servers:
     * Used solely for developing and testing purposes (any of the production servers referred to above may have an associated development/test server)
+ 
+See more information on the [Client Resource Center](https://ssbc-client.gov.bc.ca/services/apphosting/base.htm#apphosting).
 
 A complete list of Application Hosting Server Configurations is available on the OCIO Service Catalog site found [here](https://ssbc-client.gov.bc.ca/services/AppHosting/Server_Hardware_Configurations.pdf).
 
-You are advised to review the configuration list, and to document your business requirements, prior to ordering.
+You are advised to review the configuration list, and to document your business requirements, prior to [ordering](https://ssbc-client.gov.bc.ca/services/apphosting/order.htm).
 
 ## Storage and Backup
 
