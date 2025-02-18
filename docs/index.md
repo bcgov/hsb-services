@@ -24,6 +24,10 @@ You can also find support information for each service under the 'Hours of Suppo
 
 You can find prerequisites and ordering forms on the 'How to Order' page for each service on the [Client Resource Centre](https://ssbc-client.gov.bc.ca/services/overviews/hosting.htm).
 
+For iStore ordering support, please reference our [How to Order](https://ssbc-client.gov.bc.ca/order/howtoorder.htm) page.
+
+For Ministry orders, see [iStore Quick Reference Guide](https://ssbc-client.gov.bc.ca/order/iStoreReferenceGuide.pdf) Hosting Services section as well as any subsequent iStore requirements that need to be ordered for other services.
+
 ## Consulting Services
 
 We have a team of qualified information technology (IT) professionals who are available to meet with you to support either one-time or ongoing requirements. Our consulting team may serve in the capacity of a technical consultant, project manager, or a specialized IT professional, depending on your needs. 
