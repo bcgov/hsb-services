@@ -90,15 +90,17 @@ See more information on the [Client Resource Centre](https://ssbc-client.gov.bc.
 
 ### Networking Services
 
-* Global site load balancing 
+* [Global server load balancing](https://ssbc-client.gov.bc.ca/services/apphosting/GSLB_Service.pdf):
+    * Global Server Load Balancing (GSLB) provides highly available load balanced services between multiple data centres.
+
+* [Network load balancing](https://ssbc-client.gov.bc.ca/services/apphosting/AppD_Network_Load_Balancing.pdf):
+    * As part of the design of the network infrastructure located in the STMS Data Centres, a load balancing service is available to provide a variety of network load balancing functions to Client Ministries.
 
 ### Networking, Cloud & 3rd Party Connectivity
 
 * EQ Fabric and Multi Cloud Connectivity
 * Data centre Networks
 * Public Cloud & SaaS Connectivity
-* 3rd Party Clients
-* Diagrams
 
 ### Application Hosting Services
 
@@ -110,15 +112,19 @@ See more information on the [Client Resource Centre](https://ssbc-client.gov.bc.
 
 ### Remote Access Services
 
-* 3PG Service
+* [3PG Service](https://ssbc-client.gov.bc.ca/services/3rdPartyGateway/3rdPartyGateway.pdf):
+    * This service allows you to request a connection to the SPAN/BC Network for a private-sector (third party) service provider requiring a connection to your applications.
 
 ### F5 Services
 
 ### Firewall Services
 
+The [Firewall Service](https://ssbc-client.gov.bc.ca/services/Firewall/Firewall.pdf) is comprised of one or more firewall installations providing additional protection to applications and servers from unauthorized network traffic.
+
 ## Self Service and Private Cloud (IaaS)
 
-* [SDN Services](https://digital.gov.bc.ca/cloud/services/private/products-tools/sdn/)
+* [SDN Services](https://digital.gov.bc.ca/cloud/services/private/products-tools/sdn/):
+    * The Software Defined Network currently enables four self-service capabilities that were developed to increase business agility for our clients for their virtual machine and containerized workloads.
 
 ## Managed Print Services
 
@@ -132,7 +138,15 @@ See more information on the [Client Resource Centre](https://ssbc-client.gov.bc.
 
 ### VDI Service
 
+Virtual desktop infrastructure (VDI) refers to the use of virtual machines to provide and manage virtual desktops.
+
+See more information [here](https://ssbc-client.gov.bc.ca/services/AppHosting/Virtual_Desktop_Infrastructure.pdf).
+
 ### SAG Services
+
+The BC Secure Access Gateway (SAG), allows users to connect to a virtual desktop.
+
+See more information [here](https://ssbc-client.gov.bc.ca/services/AppHosting/BCSAG_User_Guide.pdf).
 
 ### Platform Services
 
