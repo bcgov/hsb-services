@@ -32,8 +32,16 @@ For Ministry orders, see [iStore Quick Reference Guide](https://ssbc-client.gov.
 
 We have a team of qualified information technology (IT) professionals who are available to meet with you to support either one-time or ongoing requirements. Our consulting team may serve in the capacity of a technical consultant, project manager, or a specialized IT professional, depending on your needs. 
 
-* Mainframe Consulting Services to address specific mainframe requirements
-* Application Hosting Consulting Services for pre-ordering information, Hosting Professional Services, middleware support services and STMS Data Centre Infrastructure Services including IP Subnet (VLAN), Firewall Security and Load Balancing.
+Consulting Services Examples:
+
+* Voice Network Services
+* Data Network Services
+* Workstation Services
+* Identity Management
+* Messaging and Collaboration
+* Mainframe Services
+* Application Hosting Service for UNIX/Linux or Windows
+* Vulnerability Scanning
 
 See more information on the [Client Resource Centre](https://ssbc-client.gov.bc.ca/services/Consulting/overview.htm).
 
@@ -114,8 +122,6 @@ See more information on the [Client Resource Centre](https://ssbc-client.gov.bc.
 
 * [3PG Service](https://ssbc-client.gov.bc.ca/services/3rdPartyGateway/3rdPartyGateway.pdf):
     * This service allows you to request a connection to the SPAN/BC Network for a private-sector (third party) service provider requiring a connection to your applications.
-
-### F5 Services
 
 ### Firewall Services
 
